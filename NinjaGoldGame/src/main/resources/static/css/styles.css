@@ -1,0 +1,48 @@
+@charset "ISO-8859-1";
+
+
+
+.topNavy{
+    display: flex;
+    flex-direction: row;
+}
+
+.containers{
+    display: flex;
+    flex-direction: row;
+    
+}
+
+
+.cube{
+    display: flex;
+    flex-direction: column;
+    width: 250px;
+    height: 250px;
+    border: 2px solid;
+    justify-content:end;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+     
+    
+    
+}
+
+.green{
+	color:green;
+}
+.red{
+	color:red;
+	
+}
+
+h1 {
+	font-size: 60px;
+	
+}
+
+
+
+
+
